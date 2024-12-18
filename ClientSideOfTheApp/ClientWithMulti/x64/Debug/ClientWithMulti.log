@@ -1,0 +1,4 @@
+﻿  ClientWithMulti.cpp
+C:\Users\keyta.DESKTOP-OLJION7\source\repos\ClientWithMulti\ClientWithMulti.cpp(71,65): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\keyta.DESKTOP-OLJION7\source\repos\ClientWithMulti\ClientWithMulti.cpp(97,61): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  ClientWithMulti.vcxproj -> C:\Users\keyta.DESKTOP-OLJION7\source\repos\ClientWithMulti\x64\Debug\ClientWithMulti.exe
